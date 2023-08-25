@@ -1,0 +1,11 @@
+.ql-toolbar.ql-snow {
+  @apply p-3 shadow-md rounded-full bg-white border-none;
+}
+
+.ql-container.ql-snow {
+  @apply shadow-md rounded-lg bg-white border-none;
+}
+
+.ql-editor {
+  @apply min-h-[20rem];
+}
